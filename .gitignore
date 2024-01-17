@@ -1,5 +1,4 @@
 # Built
-dist
 coverage
 package-lock.json
 *.tsbuildinfo
